@@ -49,4 +49,8 @@ Here are some ideas to get you started:
   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+   <br>
+   <br>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljwwnd99&show_icons=true&theme=tokyonight)
 </div>
